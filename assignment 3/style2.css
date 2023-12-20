@@ -1,0 +1,60 @@
+*{
+    text-align: center;
+}
+
+#one{
+    color: blue;
+}
+
+
+
+p1{
+    text-align: right;
+}
+.img1{
+float: left;
+width: 30%;
+}
+.img2{
+    float: right;
+    width: 15%;
+}
+.img3{
+    float: left;
+    width: 30%;
+}
+.img4{
+    float: right;
+    width:30% ;
+}
+/* .item-item1 .img5{
+    width: 10%;
+}
+.img6{
+    width:10%;
+}
+.img7{
+    width: 10%;
+}
+.img8{
+    width: 10%;
+} */
+/* .container{
+    display: flex;
+    height: auto;
+
+} */
+.last-item{
+    width: 30%;
+    float: left;
+    margin-left: 30px;
+}
+.last-item .img{
+    width: 50%;
+    height: 200px;
+    flex-direction: row;
+    
+}
+p{
+    text-align: center;
+}
